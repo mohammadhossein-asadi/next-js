@@ -39,9 +39,4 @@ bye
 bye
 bye
 bye
-bye
-bye
-bye
-bye
-bye
-bye
+by
